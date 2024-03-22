@@ -20,6 +20,7 @@ pikepdf = "*"
 pypdf = "*"
 chromadb = "*"
 langchain-experimental = "*"
+faiss-cpu = "*"
 
 [dev-packages]
 
